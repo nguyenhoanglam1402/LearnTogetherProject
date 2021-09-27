@@ -1,0 +1,33 @@
+{
+    "name": "Player",
+    "maps": [
+        {
+            "name": "PlayerMain",
+            "id": "f3dff467-0ea7-4adb-a6c4-9ef60168ba94",
+            "actions": [
+                {
+                    "name": "Look",
+                    "type": "Value",
+                    "id": "1578a583-9ad9-4576-a62e-3f58aa3193d3",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "173e8abd-99be-49e7-8eb5-023f9bafcad3",
+                    "path": "<Gamepad>/rightStick",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Look",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

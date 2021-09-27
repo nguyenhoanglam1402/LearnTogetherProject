@@ -3,7 +3,13 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - people
+  - car
+  - MaterialButtonLayer
+  - MaterialText
+  - MaterialRadioButton
+  - destination
   layers:
   - Default
   - TransparentFX
